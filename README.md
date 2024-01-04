@@ -94,3 +94,18 @@ Avisar sobre a finalização e enviar para correção.
 ## Suporte
 
 Use a [nossa comunidade](https://coodesh.com/desenvolvedores#community) para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com.
+
+
+##Etapas
+1. Configurando o dock do MongoDB
+2. Criação da solução no Asp.Net
+3. Nugts
+4. Models
+5. Testes do CRUD
+6. Controller TDD
+
+7. sincronismo
+8. Configurar um sistema de alerta
+9. documentação da API utilizando o conceito de Open API 3.0
+10.  Docker
+11.  readme
