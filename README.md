@@ -101,11 +101,14 @@ Use a [nossa comunidade](https://coodesh.com/desenvolvedores#community) para tir
 2. Criação da solução no Asp.Net
 3. Nugts
 4. Models
+5. Context
+6. head da crontroller
+   
 5. Testes do CRUD
 6. Controller TDD
 
-7. sincronismo
-8. Configurar um sistema de alerta
-9. documentação da API utilizando o conceito de Open API 3.0
-10.  Docker
-11.  readme
+8. sincronismo
+9. Configurar um sistema de alerta
+10. documentação da API utilizando o conceito de Open API 3.0
+11.  Docker
+12.  readme
